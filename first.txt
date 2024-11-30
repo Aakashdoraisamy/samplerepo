@@ -1,1 +1,7 @@
 hello my first file
+my skills:
+    python
+    java
+    excel
+    HTML
+    CSS
