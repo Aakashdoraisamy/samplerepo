@@ -6,6 +6,7 @@ my skills:
     excel
     HTML
     CSS
+    Github and Git
 
     these are my core skills
 
